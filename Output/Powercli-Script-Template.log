@@ -1,0 +1,11 @@
+Powercli-Script-Template
+11/10/2016 13:55:20 : Initialising Script
+11/10/2016 13:55:23 : VMware Snapin successfully loaded
+11/10/2016 13:55:23 : Attempting to connect to vCenter-1
+11/10/2016 13:55:30 : Attempting to Disconnect from vCenter-1
+11/10/2016 13:55:31 : Successfully disconnected from vCenter-1
+11/10/2016 13:55:31 : Attempting to connect to vCenter-2
+11/10/2016 13:55:31 : Could not find Credential Store items for host 'vCenter-2' using the specified filter.
+11/10/2016 13:55:31 : Attempting to Disconnect from vCenter-2
+11/10/2016 13:55:31 : Cannot disconnect from vCenter-2 as it is not connected
+11/10/2016 13:55:31 : Script has completed with errors
